@@ -2,5 +2,5 @@
 
 ## Choix des technologies
 
-# Diagram du mvp
+# Architecture du mvp
 ![flightradarimage](assets/schemaarchitecture.png)
